@@ -38,7 +38,7 @@
     }
   };
 </script>
-<h1>TEST</h1>
+
 <Card>
   <header>
     <h2>How would you rate your service with us?</h2>
